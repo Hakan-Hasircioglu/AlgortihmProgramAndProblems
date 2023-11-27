@@ -1,0 +1,7 @@
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\bin\Debug\Problem3_.exe.config
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\bin\Debug\Problem3_.exe
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\bin\Debug\Problem3_.pdb
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\obj\Debug\Problem3_.csproj.AssemblyReference.cache
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\obj\Debug\Problem3_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\obj\Debug\Problem3_.exe
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem3_\obj\Debug\Problem3_.pdb

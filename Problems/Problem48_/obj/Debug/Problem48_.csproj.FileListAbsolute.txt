@@ -1,0 +1,7 @@
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\bin\Debug\Problem48_.exe.config
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\bin\Debug\Problem48_.exe
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\bin\Debug\Problem48_.pdb
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\obj\Debug\Problem48_.csproj.AssemblyReference.cache
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\obj\Debug\Problem48_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\obj\Debug\Problem48_.exe
+C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem48_\obj\Debug\Problem48_.pdb

@@ -12,7 +12,7 @@ namespace Pattern7_
         {
             for (int i = 1; i < 50; i+=2)
             {
-                Console.Write("{0,3:D}", i + " ");
+                Console.Write("{0,3:D}", i );
                 
                 if (i % 10 == 9)
                 {

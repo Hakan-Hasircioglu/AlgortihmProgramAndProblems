@@ -1,0 +1,7 @@
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\bin\Debug\Problem9_.exe.config
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\bin\Debug\Problem9_.exe
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\bin\Debug\Problem9_.pdb
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\obj\Debug\Problem9_.csproj.AssemblyReference.cache
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\obj\Debug\Problem9_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\obj\Debug\Problem9_.exe
+C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Problem9_\obj\Debug\Problem9_.pdb

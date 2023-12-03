@@ -30,7 +30,7 @@ namespace Pattern20_
                     k++;
                     for (int i = 1; i <= 5; i++)
                     { 
-                        if ( k <= 2)
+                        if (k <= 2)
                         { 
                             Console.Write("{0,2:D}", 0);
                             num++;

@@ -22,8 +22,6 @@ namespace Pattern23_
                      num++;
                     Console.WriteLine();
                 }
-                
-                
             }
         }
     }

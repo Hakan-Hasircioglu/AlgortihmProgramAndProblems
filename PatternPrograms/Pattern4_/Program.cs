@@ -14,7 +14,7 @@ namespace Pattern4_
             {
                 for(int j = 5; j >= 0; j--)
                 {
-                    Console.Write(i + " ");
+                    Console.Write( i + " ");
                 }
                 Console.WriteLine();
             }

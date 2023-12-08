@@ -19,7 +19,7 @@ namespace Pattern23_
                 }
                 if (i % 5 == 0)
                 {
-                     num++;
+                    num++;
                     Console.WriteLine();
                 }
             }

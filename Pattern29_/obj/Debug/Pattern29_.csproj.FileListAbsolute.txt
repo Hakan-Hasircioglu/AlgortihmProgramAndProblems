@@ -1,7 +1,0 @@
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\bin\Debug\Pattern29_.exe.config
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\bin\Debug\Pattern29_.exe
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\bin\Debug\Pattern29_.pdb
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\obj\Debug\Pattern29_.csproj.AssemblyReference.cache
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\obj\Debug\Pattern29_.csproj.CoreCompileInputs.cache
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\obj\Debug\Pattern29_.exe
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern29_\obj\Debug\Pattern29_.pdb

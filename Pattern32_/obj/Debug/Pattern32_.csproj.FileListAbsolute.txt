@@ -1,7 +1,0 @@
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\bin\Debug\Pattern32_.exe.config
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\bin\Debug\Pattern32_.exe
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\bin\Debug\Pattern32_.pdb
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\obj\Debug\Pattern32_.csproj.AssemblyReference.cache
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\obj\Debug\Pattern32_.csproj.CoreCompileInputs.cache
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\obj\Debug\Pattern32_.exe
-C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern32_\obj\Debug\Pattern32_.pdb

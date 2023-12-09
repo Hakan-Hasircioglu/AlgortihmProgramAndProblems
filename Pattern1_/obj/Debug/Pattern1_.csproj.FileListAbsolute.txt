@@ -1,7 +1,0 @@
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\bin\Debug\Pattern1_.exe.config
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\bin\Debug\Pattern1_.exe
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\bin\Debug\Pattern1_.pdb
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\obj\Debug\Pattern1_.csproj.AssemblyReference.cache
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\obj\Debug\Pattern1_.csproj.CoreCompileInputs.cache
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\obj\Debug\Pattern1_.exe
-C:\Users\hasir\Create_with_code_Xakah\cSharp_Learning\Algorithms\PatternPrograms\Pattern1_\obj\Debug\Pattern1_.pdb

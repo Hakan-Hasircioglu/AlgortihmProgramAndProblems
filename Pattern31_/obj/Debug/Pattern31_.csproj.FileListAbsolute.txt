@@ -1,0 +1,7 @@
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\bin\Debug\Pattern31_.exe.config
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\bin\Debug\Pattern31_.exe
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\bin\Debug\Pattern31_.pdb
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\obj\Debug\Pattern31_.csproj.AssemblyReference.cache
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\obj\Debug\Pattern31_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\obj\Debug\Pattern31_.exe
+C:\Users\hasir\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern31_\obj\Debug\Pattern31_.pdb

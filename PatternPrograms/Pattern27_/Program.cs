@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pattern4_
+namespace Pattern26_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 5; i >= 0; i--)
+            for (char i = 'A'; i <= 'E'; i++)
             {
-                for(int j = 5; j >= 0; j--)
+                for (char j = 'A'; j <= 'E'; j++)
                 {
-                    Console.Write( i + " ");
+                    Console.Write("{0,2:D}", j);
                 }
                 Console.WriteLine();
             }

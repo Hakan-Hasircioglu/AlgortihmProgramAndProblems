@@ -56,7 +56,6 @@ namespace fermatProblem_
                     ekle++;
                 } 
             }
-
         }
     }
 }

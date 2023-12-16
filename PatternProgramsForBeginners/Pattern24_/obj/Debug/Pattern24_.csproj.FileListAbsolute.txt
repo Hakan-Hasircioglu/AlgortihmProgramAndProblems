@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\bin\Debug\Pattern24_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\bin\Debug\Pattern24_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\bin\Debug\Pattern24_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\obj\Debug\Pattern24_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\obj\Debug\Pattern24_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\obj\Debug\Pattern24_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern24_\obj\Debug\Pattern24_.pdb

@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\obj\Debug\Pattern38_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\obj\Debug\Pattern38_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\bin\Debug\Pattern38_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\bin\Debug\Pattern38_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\bin\Debug\Pattern38_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\obj\Debug\Pattern38_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern38_\obj\Debug\Pattern38_.pdb

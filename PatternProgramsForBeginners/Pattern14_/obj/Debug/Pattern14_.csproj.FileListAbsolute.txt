@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\bin\Debug\Pattern14_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\bin\Debug\Pattern14_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\bin\Debug\Pattern14_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\obj\Debug\Pattern14_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\obj\Debug\Pattern14_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\obj\Debug\Pattern14_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern14_\obj\Debug\Pattern14_.pdb

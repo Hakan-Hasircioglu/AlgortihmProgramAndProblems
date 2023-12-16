@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\obj\Debug\Pattern21_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\obj\Debug\Pattern21_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\bin\Debug\Pattern21_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\bin\Debug\Pattern21_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\bin\Debug\Pattern21_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\obj\Debug\Pattern21_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern21_\obj\Debug\Pattern21_.pdb

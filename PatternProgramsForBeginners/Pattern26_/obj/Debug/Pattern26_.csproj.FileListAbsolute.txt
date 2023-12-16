@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\bin\Debug\Pattern26_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\bin\Debug\Pattern26_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\bin\Debug\Pattern26_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\obj\Debug\Pattern26_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\obj\Debug\Pattern26_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\obj\Debug\Pattern26_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern26_\obj\Debug\Pattern26_.pdb

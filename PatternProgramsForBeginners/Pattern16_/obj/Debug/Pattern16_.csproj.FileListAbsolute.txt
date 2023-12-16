@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\bin\Debug\Pattern16_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\bin\Debug\Pattern16_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\bin\Debug\Pattern16_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\obj\Debug\Pattern16_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\obj\Debug\Pattern16_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\obj\Debug\Pattern16_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternPrograms\Pattern16_\obj\Debug\Pattern16_.pdb

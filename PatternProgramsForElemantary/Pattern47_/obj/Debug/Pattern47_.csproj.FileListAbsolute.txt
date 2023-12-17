@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\bin\Debug\Pattern47_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\bin\Debug\Pattern47_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\bin\Debug\Pattern47_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\obj\Debug\Pattern47_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\obj\Debug\Pattern47_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\obj\Debug\Pattern47_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\Pattern47_\obj\Debug\Pattern47_.pdb

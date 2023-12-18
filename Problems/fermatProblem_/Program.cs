@@ -32,7 +32,6 @@ namespace fermatProblem_
                 //yuzden sonra da her sayimiz ilerlediginde oncesini hesapliyoruz
                 fermatOncesiToplam += fermat;
                 fermatOncesi = fermatOncesiToplam - fermat;
-
                 //Sonrasi
                 //fermatSonrasi icin 0 atiyoruz cunku her dongu dondugunde onceki dongudeki hesabi sifirlamaliyiz
                 fermatSonrasi = 0;

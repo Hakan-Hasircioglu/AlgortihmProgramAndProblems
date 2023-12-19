@@ -14,23 +14,22 @@ namespace Pattern51_
             Console.WriteLine("_____________________");
             for (int i = 15; i >= 1; i -= subs)
             {
-                
+
                 alt = i;
                 subs++;
                 for (int j = 1; j <= k; j++)
                 {
 
-                    Console.Write("|" + "{0,2}" , alt);
+                    Console.Write("|" + "{0,2}", alt);
                     alt -= subs2;
                     subs2 = 1;
                 }
                 Console.WriteLine("|");
                 Console.Write("_____________________");
 
-                Console.WriteLine();                
+                Console.WriteLine();
                 k++;
             }
-            
         }
     }
 }

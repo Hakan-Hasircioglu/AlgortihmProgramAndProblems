@@ -11,7 +11,6 @@ namespace Pattern44_
     {
         static void Main(string[] args)
         {
-            Stopwatch sw = Stopwatch.StartNew();
             int add = 1, iBefore;
             for (int i = 1; i <= 10; i += add)
             {

@@ -5,3 +5,10 @@ C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem12_\obj\De
 C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem12_\obj\Debug\Problem12_.csproj.CoreCompileInputs.cache
 C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem12_\obj\Debug\Problem12_.exe
 C:\Users\hasir\Create with code - Xakah\C# Learning\Algorithms\Problem12_\obj\Debug\Problem12_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\obj\Debug\Problem12_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\obj\Debug\Problem12_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\obj\Debug\Problem12_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\obj\Debug\Problem12_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\bin\Debug\Problem12_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\bin\Debug\Problem12_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\Problem12_\bin\Debug\Problem12_.pdb

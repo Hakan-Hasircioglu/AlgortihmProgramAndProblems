@@ -3,33 +3,44 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System;
 
-namespace Problem12_
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        Console.WriteLine("1'den 100'e kadar olan sayılar:");
+
+        for (int num = 1; num <= 100; num++)
         {
-            ulong num = 0;
-            ulong total = 0;
-            for (ulong i = 1; ; i++)
+            if (num < 2)
             {
-                num +=i;
-                total = 0;
-                ulong j = 1;
-                for ( ; j < num+1; j++) 
+                Console.WriteLine($"{num} asal değildir.");
+            }
+            else
+            {
+                bool isThisPrime = true;
+
+                for (int i = 2; i <= Math.Sqrt(num); i++)
                 {
-                    ;
-                    if (num % j == 0 )
+                    if (num % i == 0)
                     {
-                        Console.WriteLine(j);
-                        total++;
-                        
+                        isThisPrime = false;
+                        break;
                     }
-                    
                 }
-                if (total >= 5) { Console.WriteLine(num + " " + i + "th"); return; }
+
+                if (isThisPrime)
+                {
+                    Console.WriteLine($"{num} asal bir sayıdır.");
+                }
+                else
+                {
+                    Console.WriteLine($"{num} asal değildir.");
+                }
             }
         }
+
+        Console.ReadLine();
     }
 }

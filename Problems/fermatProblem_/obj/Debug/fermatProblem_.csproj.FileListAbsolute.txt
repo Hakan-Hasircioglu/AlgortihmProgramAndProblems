@@ -5,3 +5,10 @@ C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForEl
 C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\fermatProblem_\bin\Debug\fermatProblem_.pdb
 C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\fermatProblem_\obj\Debug\fermatProblem_.exe
 C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\PatternProgramsForElemantary\fermatProblem_\obj\Debug\fermatProblem_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\bin\Debug\fermatProblem_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\bin\Debug\fermatProblem_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\bin\Debug\fermatProblem_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\obj\Debug\fermatProblem_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\obj\Debug\fermatProblem_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\obj\Debug\fermatProblem_.exe
+C:\Users\hasir\OneDrive\Masaüstü\C_W_C_X\C_S_L\Algorithms\Problems\fermatProblem_\obj\Debug\fermatProblem_.pdb

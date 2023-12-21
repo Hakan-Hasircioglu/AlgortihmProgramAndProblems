@@ -26,8 +26,8 @@ namespace Pattern42_
                 if (i == 1) { Console.WriteLine(); }
             }
             Console.WriteLine();
-            // I learned better
-            /*
+            /* I learned better
+            
              for(int i = 1; i <= 5; i++)
                 {
                 for (int j = 1; j <= i; j++)

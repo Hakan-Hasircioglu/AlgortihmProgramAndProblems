@@ -22,7 +22,10 @@ namespace Pattern19_
                     Console.Write("{0,2:D}", 0);
                 }
                 num++;
-                if (num % 5 == 0) { Console.WriteLine(); }
+                if (num % 5 == 0)
+                {
+                    Console.WriteLine();
+                }
             }
         }
     }

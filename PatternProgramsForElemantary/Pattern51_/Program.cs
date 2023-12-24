@@ -26,7 +26,6 @@ namespace Pattern51_
                 }
                 Console.WriteLine("|");
                 Console.Write("_____________________");
-
                 Console.WriteLine();
                 k++;
             }

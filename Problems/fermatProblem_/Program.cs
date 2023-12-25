@@ -34,9 +34,6 @@ namespace fermatProblem_
                 while (fermatSonrasi <= fermatOncesi)
                 {
                     fermatSonrasi += ekle;
-                    
-                       
-                    
                     /*  dongu icerisinde fermat sayisindan sonraki sayilari eklemek icin 'ekle' isminde degisken atiyoruz
                      * bu degiskeni her 1 arttirip fermatla beraber topladigimizda fermatSonrasina erisiyoruz ve sonraki
                      * fermatSonrasini oncekilerle kumulatif sekilde atiyoruz */
@@ -44,7 +41,6 @@ namespace fermatProblem_
                     if (fermatOncesi == fermatSonrasi)
                     {
                         Console.WriteLine("fermat kapi no: {2} fermat oncesi: {1}, fermat sonrasi: {0}", fermatSonrasi, fermatOncesi, fermat);
-                        Console.WriteLine(new string('*' , 50));
                         break;
                     }
                     ekle++;

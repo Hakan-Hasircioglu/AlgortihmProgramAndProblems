@@ -11,10 +11,9 @@ namespace Pattern51_
         static void Main(string[] args)
         {
             int subs = 0, subs2 = 0, k = 1, alt = 0;
-            Console.WriteLine("_____________________");
+            Console.WriteLine(new string('-', 16));
             for (int i = 15; i >= 1; i -= subs)
             {
-
                 alt = i;
                 subs++;
                 for (int j = 1; j <= k; j++)
@@ -25,7 +24,7 @@ namespace Pattern51_
                     subs2 = 1;
                 }
                 Console.WriteLine("|");
-                Console.Write("_____________________");
+                Console.Write(new string('-', 16));
                 Console.WriteLine();
                 k++;
             }

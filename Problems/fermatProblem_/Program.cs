@@ -5,19 +5,14 @@ namespace fermatProblem_
     internal class Program
     {
         static void Main(string[] args)
-        {        
-            // doksandokuza kadar olan sayilari topluyoruz
-            int toplam = 0;
-            for (int i = 1; i < 100; i++)
-            {
-                toplam += i;
-            }
+        {
+            int toplam = yuzeKadar();
             // uc haneden baslamak icin fermat oncesi olarak toplam kullaniyoruz
             int fermatOncesi = 0, fermatOncesiToplam = toplam;
             int ekle = 0;
             int fermatSonrasi;
             // sonuc 3 haneli oldugu icin sinirimiz 100-999
-            for (int fermat = 100; fermat <= 15550; fermat++)
+            for (int fermat = 100; fermat <= 99999; fermat++)
             {
                 ekle = fermat + 1;
                 //Oncesi
@@ -47,6 +42,18 @@ namespace fermatProblem_
                 }
                 fermatSonrasi = 0;
             }
+        }
+
+        private static int yuzeKadar()
+        {
+            // doksandokuza kadar olan sayilari topluyoruz
+            int toplam = 0;
+            for (int i = 1; i < 100; i++)
+            {
+                toplam += i;
+            }
+
+            return toplam;
         }
     }
 }

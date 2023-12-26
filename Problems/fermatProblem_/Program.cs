@@ -43,7 +43,6 @@ namespace fermatProblem_
                 fermatSonrasi = 0;
             }
         }
-
         private static int yuzeKadar()
         {
             // doksandokuza kadar olan sayilari topluyoruz

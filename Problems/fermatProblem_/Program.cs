@@ -15,11 +15,11 @@ namespace fermatProblem_
             for (int fermat = 100; fermat <= 99999; fermat++)
             {
                 ekle = fermat + 1;
-                //Oncesi
+                //Before
                 //yuzden sonra da her sayimiz ilerlediginde oncesini hesapliyoruz
                 fermatOncesiToplam += fermat;
                 fermatOncesi = fermatOncesiToplam - fermat;
-                //Sonrasi
+                //After
                 //fermatSonrasi icin 0 atiyoruz cunku her dongu dondugunde onceki dongudeki hesabi sifirlamaliyiz
                 fermatSonrasi = 0;
                 /*

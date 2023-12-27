@@ -6,53 +6,52 @@ namespace fermatProblem_
     {
         static void Main(string[] args)
         {
-            int toplam = yuzeKadar();
-            // uc haneden baslamak icin fermat oncesi olarak toplam kullaniyoruz
-            int fermatOncesi = 0, fermatOncesiToplam = toplam;
-            int ekle = 0;
-            int fermatSonrasi;
-            // sonuc 3 haneli oldugu icin sinirimiz 100-999
-            for (int fermat = 100; fermat <= 99999; fermat++)
+            int sum = toOneHundred();
+            // to start with one hundred we assign the variable sum
+            int fermatBefore = 0, sumAfterFermat = sum;
+            int add = 0;
+            int fermatAfter;
+            // since the result is 3 digits, the limit is between 100-999
+            for (int fermat = 100; fermat <= 999; fermat++)
             {
-                ekle = fermat + 1;
+                add = fermat + 1;
                 //Before
-                //yuzden sonra da her sayimiz ilerlediginde oncesini hesapliyoruz
-                fermatOncesiToplam += fermat;
-                fermatOncesi = fermatOncesiToplam - fermat;
+                // after 100, calculate the sum of the previous numbers in each number increment
+                sumAfterFermat += fermat;
+                fermatBefore = sumAfterFermat - fermat;
                 //After
-                //fermatSonrasi icin 0 atiyoruz cunku her dongu dondugunde onceki dongudeki hesabi sifirlamaliyiz
-                fermatSonrasi = 0;
-                /*
-                 *  fermat sonrasi fermat oncesinden kucuk veya esit oldugu surece sonrasini hesapliyoruz eger sonrasi,
-                 * fermat oncesini gecerse sayimiz tutmadigi icin o sayiyi geciyoruz
-                 */
-                while (fermatSonrasi <= fermatOncesi)
+                // we assign to 0 the variable fermatAfter because we have to reset the previous loop calculation
+                fermatAfter = 0;
+                // as long as fermatAfter smaller or equal to fermatBefore we increase fermatAfter. 
+                // if fermatSonrasi pass to fermatBefore we know new number doesn't correct number we break to loop.
+                while (fermatAfter <= fermatBefore)
                 {
-                    fermatSonrasi += ekle;
-                    /*  dongu icerisinde fermat sayisindan sonraki sayilari eklemek icin 'ekle' isminde degisken atiyoruz
-                     * bu degiskeni her 1 arttirip fermatla beraber topladigimizda fermatSonrasina erisiyoruz ve sonraki
-                     * fermatSonrasini oncekilerle kumulatif sekilde atiyoruz */
-                    // fermatOncesi ve fermatSonrasi birbirine esit ise kapi numarasini ve esit geldigi degerleri yazdiriyoruz
-                    if (fermatOncesi == fermatSonrasi)
+                    // in the loop, to add numbers after the fermat number, we asssign the variable add. 
+                    /*  when increase one this variable we get variable the fermatAfter and
+                     * we summing the variable fermatAfter and the variable add then assign to fermatAfter
+                     */
+                    fermatAfter += add;
+                    // if fermatoncesi equal to fermatsonrasi, we print door no and equal values
+                    if (fermatBefore == fermatAfter)
                     {
-                        Console.WriteLine("fermat kapi no: {2} fermat oncesi: {1}, fermat sonrasi: {0}", fermatSonrasi, fermatOncesi, fermat);
+                        Console.WriteLine("fermat kapi no: {2} fermat oncesi: {1}, fermat sonrasi: {0}", fermatAfter, fermatBefore, fermat);
                         break;
                     }
-                    ekle++;
+                    add++;
                 }
-                fermatSonrasi = 0;
+                fermatAfter = 0;
             }
         }
-        private static int yuzeKadar()
+        private static int toOneHundred()
         {
-            // doksandokuza kadar olan sayilari topluyoruz
-            int toplam = 0;
+            // we sum numbers from 1 to ninety-nine
+            int sum = 0;
             for (int i = 1; i < 100; i++)
             {
-                toplam += i;
+                sum += i;
             }
 
-            return toplam;
+            return sum;
         }
     }
 }

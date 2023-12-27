@@ -31,7 +31,7 @@ namespace fermatProblem_
                      * we summing the variable fermatAfter and the variable add then assign to fermatAfter
                      */
                     fermatAfter += add;
-                    // if fermatoncesi equal to fermatsonrasi, we print door no and equal values
+                    // if fermatBefore equal to fermatAfter, we print door no and equal values
                     if (fermatBefore == fermatAfter)
                     {
                         Console.WriteLine("fermat kapi no: {2} fermat oncesi: {1}, fermat sonrasi: {0}", fermatAfter, fermatBefore, fermat);

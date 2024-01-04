@@ -15,7 +15,7 @@ namespace Pattern71_
             {
                 for (int j = i; j >= 1; j--)
                 {
-                    Console.Write(k);
+                    Console.Write($"{k,2}");
                 }
                 k++;
                 Console.WriteLine();

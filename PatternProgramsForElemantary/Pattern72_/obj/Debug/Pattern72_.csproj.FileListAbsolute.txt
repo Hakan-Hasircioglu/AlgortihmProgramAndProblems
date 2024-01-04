@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\bin\Debug\Pattern72_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\bin\Debug\Pattern72_.exe
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\bin\Debug\Pattern72_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\obj\Debug\Pattern72_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\obj\Debug\Pattern72_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\obj\Debug\Pattern72_.exe
+C:\Users\hasir\OneDrive\Masaüstü\Pattern72_\obj\Debug\Pattern72_.pdb

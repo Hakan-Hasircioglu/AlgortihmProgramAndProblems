@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\bin\Debug\PatterrnRectangle_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\bin\Debug\PatterrnRectangle_.exe
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\bin\Debug\PatterrnRectangle_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\obj\Debug\PatterrnRectangle_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\obj\Debug\PatterrnRectangle_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\obj\Debug\PatterrnRectangle_.exe
+C:\Users\hasir\OneDrive\Masaüstü\PatterrnRectangle_\obj\Debug\PatterrnRectangle_.pdb

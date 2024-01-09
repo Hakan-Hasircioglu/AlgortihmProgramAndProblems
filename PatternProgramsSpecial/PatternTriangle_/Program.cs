@@ -16,8 +16,8 @@ namespace PatternTriangle_
                 if (input_ == 0 || input_ < 1 )
                     Console.WriteLine
                         (
-                        $"Try the available numbers" +
-                        $"\tAvailabe numbers > 0 "
+                        $"Try the available numbers\t" +
+                        $"Availabe numbers > 0 "
                         );
                 for (int i = 1; i <= input_; i++)
                 {

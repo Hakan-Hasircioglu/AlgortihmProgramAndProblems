@@ -29,6 +29,7 @@ namespace PatterrnRectangle_
                         else
                             Console.Write("  ");
                     }
+                    
                     Console.Write('|');
                     Console.WriteLine();
                 }

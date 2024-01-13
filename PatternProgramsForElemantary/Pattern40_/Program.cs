@@ -15,13 +15,10 @@ namespace Pattern40_
                 for (int j = 2; j <= i; j+=2)
                 {
                     if (j == 10)
-                    {
                         Console.Write("{0,3:D}", j);
-                    }
+
                     else
-                    {
                         Console.Write("{0,2:D}" , j);
-                    }
                 }
                 Console.WriteLine();
             }

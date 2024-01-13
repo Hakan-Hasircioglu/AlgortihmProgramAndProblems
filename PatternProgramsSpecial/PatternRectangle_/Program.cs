@@ -27,7 +27,7 @@ namespace PatterrnRectangle_
                             break;
                         }
                         else
-                            Console.Write(" ");
+                            Console.Write("  ");
                     }
                     Console.Write('|');
                     Console.WriteLine();

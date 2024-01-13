@@ -1,0 +1,7 @@
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\bin\Debug\PatternMultiplicationTable_.exe.config
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\bin\Debug\PatternMultiplicationTable_.exe
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\bin\Debug\PatternMultiplicationTable_.pdb
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\obj\Debug\PatternMultiplicationTable_.csproj.AssemblyReference.cache
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\obj\Debug\PatternMultiplicationTable_.csproj.CoreCompileInputs.cache
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\obj\Debug\PatternMultiplicationTable_.exe
+C:\Users\hasir\OneDrive\Masaüstü\PatternMultiplicationTable_\obj\Debug\PatternMultiplicationTable_.pdb

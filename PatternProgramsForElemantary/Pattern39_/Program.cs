@@ -13,9 +13,7 @@ namespace Pattern39_
             for (int i = 5; i >= 1; i--)
             {
                 for (int j = i; j <= 5; j++)
-                {
                     Console.Write("{0,2:D}" , j);
-                }
                 Console.WriteLine();
             }
         }

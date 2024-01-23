@@ -13,12 +13,9 @@ namespace Pattern16_
             int k = 0;
             for (int i = 1; i <= 5; i++)
             {
-                
                 for(int j = 0; j < 5; j++)
-                {
                     k = i + j;
                     Console.Write("{0,2:D}" , k);
-                }
                 Console.WriteLine();
                 
             }

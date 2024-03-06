@@ -13,9 +13,7 @@ namespace Pattern26_
             for (char i = 'A'; i <= 'E'; i++)
             {
                 for (char j = 'A'; j <= 'E'; j++)
-                {
                     Console.Write("{0,2:D}" , i);
-                }
                 Console.WriteLine();
             }
         }

@@ -15,9 +15,7 @@ namespace Pattern64_
             {
 
                 for (int j = 1; j <= i; j++)
-                {
                     Console.Write($"{(j + k) % 2,2}");
-                }
                 Console.WriteLine();
                 k++;
             }

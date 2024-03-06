@@ -19,13 +19,9 @@ namespace Pattern22_
                     Console.WriteLine();
                 }
                 if (num % 2 == 0) 
-                {
                     Console.Write("{0,2:D}" , 0);
-                }
                 else
-                {
                     Console.Write("{0,2:D}", 1);
-                }
             }
             Console.WriteLine();
         }

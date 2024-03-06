@@ -22,8 +22,11 @@ namespace Pattern41_
                 }
                 string _if = (i == 10) ? $"{i, 3}" : $"{i,2}";
                 Console.Write(_if); // Just for looks 
+<<<<<<< HEAD
 
                 //if (i == 10) { Console.Write("{0,3:D}", i); }  else { Console.Write("{0,2:D}", i); }
+=======
+>>>>>>> ab516e94483611410eb6092339182e5f07c7b5ab
             }
             Console.WriteLine();
         }

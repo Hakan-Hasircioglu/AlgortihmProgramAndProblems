@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "pattern88_c": "c"
+        "pattern88_c": "c",
+        "stdlib.h": "c"
     }
 }

@@ -7,15 +7,10 @@ int main()
         for ( j = 1; j <= 5; j++)
         {
             if (j == 1 || j ==5 || i == 3)
-            {
                 printf("H ");
-            }
             else if (j < 5 || j > 1)
-            {
                 printf("  ");
-            }
         }
-        
         printf("\n");
     }
 

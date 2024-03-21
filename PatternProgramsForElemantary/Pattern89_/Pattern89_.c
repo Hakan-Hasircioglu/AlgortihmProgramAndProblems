@@ -5,9 +5,7 @@ int main()
     for (i = 0; i <= 4; i++)
     {
         for (j = 4; j >= i; j--)
-        {
             printf("%c ", 69 - i);
-        }
         printf("\n");
     }
     return 0;

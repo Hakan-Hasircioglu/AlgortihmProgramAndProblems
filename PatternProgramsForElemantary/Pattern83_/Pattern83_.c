@@ -5,9 +5,7 @@ int main()
     for (i = 0; i < 5; i++)
     {
         for (j = 5; j > i; j--)
-        {
             printf("%d ", j%2);
-        }
         printf("\n");
     }
     return 0;

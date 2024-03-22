@@ -9,7 +9,7 @@
   -  "[C#](https://play.google.com/store/apps/details?id=com.sitseducators.csharppatternprogramsfree&hl=en_IN&gl=US) Pattern Programmes" 
   -  "[C](https://play.google.com/store/apps/details?id=com.sitseducators.cpatternprogramsfree&hl=en&gl=US) Pattern Programmes" 
 
-and program it myself.
+and I program it myself.
 
 ---
 

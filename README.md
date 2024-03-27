@@ -1,6 +1,6 @@
 # AlgortihmProgramAndProblems
 
-- I update when I solve a new problem.
+- I update when I solve a new problem or I program a new program.
 
 ---
 - I get and solve problems from https://projecteuler.net/archives and my lecturers.

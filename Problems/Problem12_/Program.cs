@@ -1,42 +1,54 @@
-using System.Diagnostics;
-using System.Numerics;
-
-Stopwatch stopwatch = new Stopwatch();
-stopwatch.Start();
-int sum = 0; int divisorCounter = 0;
+int sum = 0; int divisorCounter = 0, altSum = 0;
 // Start With 500th triangle number
-sum = (500 * 501)/2;
-for (int i = 501; ; i++)
+sum = (500 * 501) / 2;
+for (int i = 1; ; i++)
 {
     sum += i;
-    for (int j = 1; j <= sum; j++)
-    {
-        if (sum % j == 0)
-        {
-            divisorCounter++;
-        }
-        if (divisorCounter > 500)
-        {
-            stopwatch.Stop();
-            Console.WriteLine($"{i}th triangle number");
-            TimeSpan elapsed = stopwatch.Elapsed;
-            Console.WriteLine($"Elapsed Time:{elapsed.Minutes:00}.{elapsed.Seconds:00}.{elapsed.Milliseconds:00}m");
+    altSum = sum;
 
-            Console.WriteLine($"num: {sum}");
-            Console.WriteLine($"Divisors Count: {divisorCounter}\n");
-            return;
+    divisorCounter = Priming(altSum);
+    if (divisorCounter > 500)
+    {
+        Console.WriteLine($"Sum: {sum}\nDivison Count: {divisorCounter}");
+        return;
+    }
+}
+
+
+int Priming(int a)
+{
+    int b = 1;
+    for (int i = 2; i <= Math.Sqrt(a); i++)
+    {
+        var counter = 0;
+        if (IsPrime(i))
+        {
+            while (a % i == 0)
+            {
+                a /= i;
+                counter++;
+            }
+            b *= (counter + 1);
         }
     }
-    if (divisorCounter > 300)
+    if (IsPrime(a))
     {
-        Console.WriteLine($"{i}th triangle number");
-        TimeSpan elapsed = stopwatch.Elapsed;
-        Console.WriteLine($"Elapsed Time:{elapsed.Minutes:00}.{elapsed.Seconds:00}.{elapsed.Milliseconds:00}m");
-
-
-        Console.WriteLine($"num: {sum}");
-        Console.WriteLine($"Divisors Count: {divisorCounter}\n");
-
+        b *= 2;
     }
-    divisorCounter = 0;
+    return b;
+}
+bool IsPrime(int n)
+{
+    if (n < 2) return false;
+    if (n == 2) return true;
+    if (n % 2 == 0) return false;
+
+
+    var i = 3;
+    while (i * i <= n)
+    {
+        if (n % i == 0) return false;
+        i += 2;
+    }
+    return true;
 }

@@ -1,45 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
+using System.Numerics;
 
-class Program
+Stopwatch stopwatch = new Stopwatch();
+stopwatch.Start();
+int sum = 0; int divisorCounter = 0;
+// Start With 500th triangle number
+sum = (500 * 501)/2;
+for (int i = 501; ; i++)
 {
-    static void Main()
+    sum += i;
+    for (int j = 1; j <= sum; j++)
     {
-        Console.WriteLine("1'den 100'e kadar olan sayılar:");
-
-        for (int num = 1; num <= 100; num++)
+        if (sum % j == 0)
         {
-            if (num < 2)
-            {
-                Console.WriteLine($"{num} asal değildir.");
-            }
-            else
-            {
-                bool isThisPrime = true;
-
-                for (int i = 2; i <= Math.Sqrt(num); i++)
-                {
-                    if (num % i == 0)
-                    {
-                        isThisPrime = false;
-                        break;
-                    }
-                }
-
-                if (isThisPrime)
-                {
-                    Console.WriteLine($"{num} asal bir sayıdır.");
-                }
-                else
-                {
-                    Console.WriteLine($"{num} asal değildir.");
-                }
-            }
+            divisorCounter++;
         }
+        if (divisorCounter > 500)
+        {
+            stopwatch.Stop();
+            Console.WriteLine($"{i}th triangle number");
+            TimeSpan elapsed = stopwatch.Elapsed;
+            Console.WriteLine($"Elapsed Time:{elapsed.Minutes:00}.{elapsed.Seconds:00}.{elapsed.Milliseconds:00}m");
 
-        Console.ReadLine();
+            Console.WriteLine($"num: {sum}");
+            Console.WriteLine($"Divisors Count: {divisorCounter}\n");
+            return;
+        }
     }
+    if (divisorCounter > 300)
+    {
+        Console.WriteLine($"{i}th triangle number");
+        TimeSpan elapsed = stopwatch.Elapsed;
+        Console.WriteLine($"Elapsed Time:{elapsed.Minutes:00}.{elapsed.Seconds:00}.{elapsed.Milliseconds:00}m");
+
+
+        Console.WriteLine($"num: {sum}");
+        Console.WriteLine($"Divisors Count: {divisorCounter}\n");
+
+    }
+    divisorCounter = 0;
 }

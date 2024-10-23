@@ -1,4 +1,4 @@
-int sum = 0; int divisorCounter = 0, altSum = 0;
+int sum = 0,divisorCounter = 0, altSum = 0;
 // Start With 500th triangle number
 sum = (500 * 501) / 2;
 for (int i = 1; ; i++)
